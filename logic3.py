@@ -1,6 +1,3 @@
-# Task 2
-# program that displays a logical error.
-
 # Number guessing game with hints 
 
 
